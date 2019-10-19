@@ -11,7 +11,7 @@ In this file (which will be created by hand before the execution of the code) th
 ```sh
 $ git clone https://github.com/igp7/Directory-Synchronization.git
 $ make
-$ ./sinco.out
+$ ./sincro.out
 ```
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please if you can, please make sure the code fully works before sending the pull request, as that will help speed up the process.
